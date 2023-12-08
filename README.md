@@ -1,1 +1,2 @@
 # 1.18.2Minecraft_modpacks01
+将main内文件粘贴至游戏目录即可进行测试
