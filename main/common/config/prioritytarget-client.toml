@@ -1,3 +1,0 @@
-#If true, when the number of priority targeting mobs is displayed, the "! detected" word will not be displayed
-omitDetected = false
-

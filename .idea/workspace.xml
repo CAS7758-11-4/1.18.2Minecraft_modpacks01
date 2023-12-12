@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe7d0758-2bb2-4832-b6ea-12324fac08ab" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/main/common/config/ModernUI/bootstrap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/ModernUI/client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/ModernUI/common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/ModernUI/server.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/ModernUI/text.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/MouseTweaks.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/abnormals_delight-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/additionalstructures-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/alligator_snapping_turtle_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/anaconda_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/anteater_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/bald_eagle_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/bison_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/blobfish_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/bone_serpent_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/bunfungus_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/cachalot_whale_beached_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/cachalot_whale_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/capuchin_monkey_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/catfish_huge_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/catfish_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/cave_centipede_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/cockroach_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/comb_jelly_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/cosmaw_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/cosmic_cod_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/crimson_mosquito_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/crocodile_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/crow_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/devils_hole_pupfish_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/dropbear_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/elephant_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/emu_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/endergrade_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/enderiophage_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/flutter_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/fly_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/flying_fish_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/frilled_shark_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/froststalker_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/gazelle_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/gelada_monkey_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/giant_squid_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/gorilla_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/grizzly_bear_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/guster_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/hammerhead_shark_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/hummingbird_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/jerboa_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/kangaroo_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/komodo_dragon_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/laviathan_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/leafcutter_anthill_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/lobster_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/maned_wolf_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/mantis_shrimp_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/mimic_octopus_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/mimicube_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/moose_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/mungus_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/orca_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/platypus_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/raccoon_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/rattlesnake_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/roadrunner_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/rocky_roller_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/seagull_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/seal_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/shoebill_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/skelewag_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/snow_leopard_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/soul_vulture_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/spectre_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/straddler_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/stradpole_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/sunbird_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/tarantula_hawk_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/tasmanian_devil_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/terrapin_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/tiger_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/toucan_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/tusklin_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/void_worm_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/warped_mosco_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/alexsmobs/warped_toad_spawns.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/apotheosis/adventure.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/apotheosis/apotheosis.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/apotheosis/enchantments.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/apotheosis/garden.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/apotheosis/names.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/apotheosis/potion.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/apotheosis/spawner.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/apotheosis/village.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/appleskin-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/atmospheric-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/atmospheric-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/attributefix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/autumnity-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/betterdungeons-forge-1_18.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/betterfortresses-forge-1_18_2.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/betterfortresses/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/betterfortresses/forge-1_18_2/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/betterfortresses/forge-1_18_2/itemframes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/bettermineshafts-forge-1_18.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/bettermineshafts/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/bettermineshafts/forge-1_18_2/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/betteroceanmonuments-forge-1_18_2.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/betterpingdisplay-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/betterwitchhuts-forge-1_18_2.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/blueprint-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/blueprint-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/boatoverhaul-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/backups/last_working_configs_backup.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/biomepedia.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/byg-biome-dictionary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/client/biomepedia_inventory.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/config_versions.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/end-biomes.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/growing-patterns.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/nether-biomes.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_vanilla.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_1.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_2.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_3.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_vanilla.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/middle_biomes_variant/middle_biomes_variant_vanilla.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/oceans/oceans_1.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/oceans/oceans_vanilla.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_1.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_vanilla.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/peak_biomes_variant/peak_biomes_variant_vanilla.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_1.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_2.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_3.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_vanilla.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/plateau_biomes_variant/plateau_biomes_variant_vanilla.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/shattered_biomes/shattered_biomes_vanilla.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_1.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_vanilla.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/biome_selectors/slope_biomes_variant/slope_biomes_variant_vanilla.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/byg-overworld-biomes.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/regions/rare_region_1.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/regions/region_1.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/regions/region_2.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/overworld/regions/region_3.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/settings.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/surface_rules/end_surface_rules.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/surface_rules/nether_surface_rules.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/surface_rules/overworld_surface_rules.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/byg/trades.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/citadel-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/clickadv-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/configured-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/cosmeticarmorreworked-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/cosmeticarmorreworked-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/create-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/create-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/create_central_kitchen-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/create_jetpack-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/create_jetpack-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/createcafe-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/curios-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/darkmodeeverywhere-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/darkmodeeverywhereshaders.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/deathfinder-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/detailab-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/dummmmmmy-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/dummmmmmy-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/dungeon_crawl.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/dynamic_asset_generator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/enchdesc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/endrem.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-blood_moon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-blue_moon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-harvest_moon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_blood_moon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_blue_moon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_harvest_moon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/enhancedcelestials/minecraft/overworld/lunar/lunar-settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/enigmaticlegacy-client.omniconf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/enigmaticlegacy-common.omniconf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/ae2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/betterend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/betternether.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/bewitchment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/bigreactors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/blockus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/byg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/create.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/darkerdepths.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/enriched.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/galosphere.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/gemsnjewels.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/geolosys.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/immersiveengineering.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/magnificent_malachite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/malum.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/mekanism.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/minecraft.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/miningmaster.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/modern_industrialization.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/mores.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/mores_quark.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/mysticalagriculture.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/mythicmetals.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/oreganized.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/powah.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/promenade.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/purpeille.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/qcraft.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/quark.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/randomite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/randomium.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/sulfurpotassiummod.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/techreborn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/things.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/twigs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/unearthed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/excavated_variants/universal_ores.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/explorerscompass-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/explorerscompass-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/exquisito-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/exquisito-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/farmersdelight-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/farmersdelight-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/ferritecore-mixin.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/flywheel-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/fml.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/foodeffecttooltips-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forge-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forge-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forgery/block_logo.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forgery/block_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forgery/classic_block_drops.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forgery/dimensional_tools.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forgery/features.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forgery/fscript.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forgery/gear_components.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forgery/item_despawn.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forgery/taggable_players.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/forgery/yeet_recipes.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/ftbbackups2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/ftbultimine.snbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/gamemenumodoption-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/grimoire_of_tetra-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/hardcorerevival-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/highlighter-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/ibeeditor-client.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/ibeeditor-common.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/ibeeditor-vault.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/inventoryprofilesnext/inventoryprofiles.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/inventoryprofilesnext/新的世界/villager-trading-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/itemzoom-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jade-addons.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jade/hide-blocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jade/hide-entities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jade/jade.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jade/jade_plugins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jecharacters.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jei/ingredient-list-mod-sort-order.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jei/ingredient-list-type-sort-order.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jei/jei-client.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jei/recipe-category-sort-order.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jeresources-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jeresources.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/jerintegration-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/legendarytooltips-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/lootr-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/lootr-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/mantle-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/modnametooltip-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/naturescompass-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/naturescompass-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/neapolitan-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/nethersdelight-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/oculus.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/odysseyhud.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/openloader/advanced_options.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/passablefoliage-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/patchouli-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/paucal-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/peculiars-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/pickupnotifier/pickupnotifier-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/presencefootsteps/userconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/prioritytarget-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/prioritytarget-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/quark-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/questsadditions-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/repurposed_structures-forge/biome_dimension_allow_disallow_configs.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/repurposed_structures-forge/dungeons.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/repurposed_structures-forge/modded_loot.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/repurposed_structures-forge/wells.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/rubidium-mixins.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/rubidium-options.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/rubidium_dynamic_lights.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/rubidium_extras.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/seasonals-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/sidebar_buttons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/sliceanddice-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/sliceanddice-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/smoothswapping.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/sodium-extra-options.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/sodium-extra.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/sophisticatedbackpacks-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/sophisticatedcore-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/supplementaries-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/supplementaries-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/supplementaries-registry.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/tarotcards-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/tconplanner-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/tconstruct-client.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/tconstruct-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/terrablender.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/tetra.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/trashslot-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/config/waystones-common.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/AutoRegLib-1.7-53.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/BetterWaystonesMenu-0.1.1+mc1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/Bookshelf-Forge-1.18.2-13.3.56.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/DetailArmorBar-2.6.2+1.18.2-forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/DungeonCrawl-1.18.2-2.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/ElytraPhysicsForge-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/I18nUpdateMod-3.4.2-all.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/IBEEditor-1.18.2-2.2.0-forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/Jade-1.18.2-forge-5.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/JadeAddons-1.18.2-forge-2.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/JsonThings-1.18.2-0.4.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/JustEnoughResources-1.18.2-0.14.1.171.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/Philips-ruins1.18.2-4.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/Placebo-1.18.2-6.6.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/Potato-Canon-Plus_1.18.2_Forge_V1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/Prism-1.18.2-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/PuzzlesLib-v3.4.6-1.18.2-Forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/Quit-Forge-1.18.2-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/Structory-1.18.2-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/TerraBlender-forge-1.18.2-1.2.0.126.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/YungsApi-1.18.2-Forge-2.2.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[FTB 团队]ftb-teams-forge-1802.2.11-build.107.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[FTB任务]ftb-quests-forge-1802.3.14-build.191.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[FTB备份]ftbbackups2-forge-1.18.2-1.0.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[JEI工作方块]JustEnoughProfessions-1.18.2-1.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[JER集成]JER-Integration-3.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[YUNG的下界要塞优化]YungsBetterNetherFortresses-1.18.2-Forge-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[YUNG的地牢优化]YungsBetterDungeons-1.18.2-Forge-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[YUNG的沼泽小屋优化]YungsBetterWitchHuts-1.18.2-Forge-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[YUNG的海底神殿优化]YungsBetterOceanMonuments-1.18.2-Forge-1.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[YUNG的矿井优化]YungsBetterMineshafts-1.18.2-Forge-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[一键背包整理]InventoryProfilesNext-forge-1.18.2-1.10.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[万用皮肤补丁]CustomSkinLoader_ForgeActive-14.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[下界乐事]NethersDelight-1.18.2-2.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[任务拓展]questsadditions-1.18.2-1.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[优先目标]PriorityTarget-Forge-1.18.2-2.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[传说工具提示]LegendaryTooltips-1.18.2-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[传送石碑]waystones-forge-1.18.2-10.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[免税附魔]TaxFreeLevels-1.3.5-forge-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[农夫乐事]FarmersDelight-1.18.2-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[冰山]Iceberg-1.18.2-forge-1.0.49.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[匠魂3]TConstruct-1.18.2-3.6.4.113.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[匠魂蓝图]tconplanner-1.18.2-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[可点击的进度]clickadv-1.18.2-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[叶间穿行]PassableFoliage-1.18.2-forge-4.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[地幔]Mantle-1.18.2-1.9.45.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[地牢浮现之时]DungeonsArise-1.18.2-2.1.52-release.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[垃圾槽]trashslot-forge-1.18.2-11.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[夜间模式]DarkModeEverywhere-1.18.2-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[失落废墟]Rex's-AdditionalStructures-1.18.2-(v.3.1.1).jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[夸克]Quark-3.2-358.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[季节风味]seasonals-1.18.2-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[属性修复]AttributeFix-Forge-1.18.2-14.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[帕秋莉手册]Patchouli-1.18.2-71.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[平滑转移]smoothswapping-0.9.1-1.18.2-forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[开放式加载]OpenLoader-Forge-1.18.2-12.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[悠然一派]atmospheric-1.18.2-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[拾取提示]PickUpNotifier-v3.2.1-1.18.2-Forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[按键精灵]keywizard-forge-2.0.1-1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[探险者指南针]ExplorersCompass-1.18.2-1.3.0-forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[旅行地图]journeymap-1.18.2-5.9.7-forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[时装盔甲重置版]CosmeticArmorReworked-1.18.2-v2a.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[更多箱子]ironchest-1.18.2-13.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[更好的延迟显示]BetterPingDisplay-1.18.2-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[月亮事件]Enhanced_Celestials-forge-1.18.2-2.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[末地乐事]ends_delight-1.18.2-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[末域奇馔]exquisito-1.18.2-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[机械动力]create-1.18.2-0.5.1.b.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[机械动力：中央厨房]create_central_kitchen-1.18.2-for-create-0.5.1.b-1.3.7.d.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[机械动力：合金]alloyed-1.18.2-v1.5a.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[机械动力：咖啡馆]createcafe-1.10.2-1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[机械动力：喷气背包]create_jetpack-1.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[机械动力：晶莹剔透]create_crystal_clear-0.2.1-1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[机械动力：附魔工业]create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[树叶快速腐烂]FastLeafDecay-28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[模组名称显示]modnametooltip-1.18.1-1.18.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[模组目录]catalogue-1.6.2-1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[死亡溯源]DeathFinder-v3.2.0-1.18.2-Forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[残骸碎块]Debris-Chunk-0.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[氡]radon-0.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[游戏菜单模组设定]GameMenuModOption-1.18-Forge-1.14.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[游戏菜单移除]GameMenuRemoveGFARB-1.18-Forge-1.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[物品缩放]itemzoom-1.18.2-2.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[物品过滤器]item-filters-forge-1802.2.8-build.50.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[物品高亮]Highlighter-1.18.1-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[状态效果折叠]MiniEffects-1.18.2-forge-4.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[独特风味]peculiars-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[现代化ui]ModernUI-1.18.2-3.5.4.113-universal.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[生物群系指南针]NaturesCompass-1.18.2-1.9.7-forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[硬核复活]hardcorerevival-forge-1.18.2-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[神化]Apotheosis-1.18.2-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[神秘遗物]EnigmaticLegacy-2.25.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[秋原]autumnity-1.18.2-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[精妙核心]sophisticatedcore-1.18.2-0.5.82.393.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[精妙背包]sophisticatedbackpacks-1.18.2-3.18.57.888.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[结构变体]repurposed_structures_forge-5.1.14+1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[聊天无卡顿]NoChatLagForge-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[脚步声]PresenceFootsteps-1.18.2-1.5.1-forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[舒适用品]comforts-forge-1.18.2-5.0.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[苹果皮]appleskin-forge-mc1.18.2-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[蜜蜂修复]BeeFix-1.18-1.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[行船机制修改]BoatOverhaul-Forge-1.18.2-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[试验假人]MmmMmmMmmMmm-1.18.2-1.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[连接纹理]CTM-1.18.2-1.1.5+5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[连锁破坏]ftb-ultimine-forge-1802.3.3-build.70.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[通用拼音搜索]jecharacters-1.18.2-4.3.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[那不勒斯风味]neapolitan-1.18.2-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[配置界面]configured-2.0.1-1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[铁氧体磁芯]ferritecore-4.2.2-forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[铷]rubidium-0.5.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[铷动态光源]rubidium_dynamiclights-1.18.2_v1.3.3-i18n.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[铷扩展]rubidium-extra-0.4.18+mc1.18.2-build.86.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[铷视频界面]TextruesRubidiumOptions-1.0.5-mc1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[铷视频设置按钮]BRVSB-1.0.4-mc1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[铷附属]rubidium_extras-1.18.2_v1.3.5-i18n.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[锦致装饰]supplementaries-1.18.2-1.5.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[附魔描述]EnchantmentDescriptions-Forge-1.18.2-10.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[食物效果显示]foodeffecttooltips-1.0.1+forge-1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/[鼠标手势]MouseTweaks-forge-mc1.18-2.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/abnormals_delight-1.18.2-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/alexsdelight-1.18.2-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/alexsmobs-1.18.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/architectury-4.11.93-forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/art_of_forging-1.5.5-1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/balm-3.2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/blueprint-1.18.2-5.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/caelus-forge-1.18.1-3.0.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/charred-1.18.2-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/chipped-forge-1.18.2-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/citadel-1.11.3-1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/cloth-config-6.5.102-forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/curios-forge-1.18.2-5.0.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/dynamic_asset_generator-forge-1.18.2-0.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/endrem_forge-5.2.0-R-1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/excavated_variants-forge-1.18.2-0.6.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/forcegl20-forge-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/forgery-3.3.3+1.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/ftb-essentials-1802.2.2-build.83.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/ftb-library-forge-1802.3.11-build.177.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/grimoire_of_tetra-1.18.2-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/idas_forge-1.6.6+1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/integrated_api_forge-1.2.7+1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/integrated_stronghold_forge-1.0.2+1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/jei-1.18.2-forge-10.2.1.1005.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/kotlinforforge-3.12.0-all.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/libIPN-forge-1.18.2-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/lightspeed-1.18.2-1.0.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/liquidburner-1.18.2-0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/lootr-1.18.2-0.3.25.63.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/mutil-1.18.2-4.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/mvs-3.0.8-1.18.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/ocrenderfix_sodium-forge-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/oculus-flywheel-compat-1.18.2-0.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/oculus-mc1.18.2-1.6.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/overweightfarming-1.18.2-1.6.0-forge.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/paucal-forge-1.18.2-0.4.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/polylib-forge-1801.0.2-build.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/selene-1.18.2-1.17.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/simpleores-tin1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/sliceanddice-forge-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/sliceanddice-forge-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/tarotcards-1.18.2-1.4-release.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/mods/tetra-1.18.2-4.10.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/common/resourcepacks/Minecraft-Mod-Language-Modpack-1-18.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="CAS7758-11-4 &lt;113354175+cas7758-11-4@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="common" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9d81a0a5-e25f-478b-a433-dac3172a3fde" />
+        <option name="url" value="https://github.com/CAS7758-11-4/1.18.2Minecraft_modpacks01.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZRWY6nrriWbQSKU6JAZxxIbzEX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/文件/git/1.18.2Minecraft_modpacks01",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MTConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="1.18.2Minecraft_modpacks01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="1.18.2Minecraft_modpacks01" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fe7d0758-2bb2-4832-b6ea-12324fac08ab" name="更改" comment="" />
+      <created>1702385417082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702385417082</updated>
+    </task>
+    <task id="LOCAL-00001" summary="删除部分mod,更新mod版本">
+      <created>1702386078758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702386078758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除部分mod,更新mod版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除部分mod,更新mod版本" />
+  </component>
+</project>
