@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe7d0758-2bb2-4832-b6ea-12324fac08ab" name="更改" comment="" />
+    <list default="true" id="fe7d0758-2bb2-4832-b6ea-12324fac08ab" name="更改" comment="删除部分mod,更新mod版本" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +85,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -99,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="删除部分mod,更新mod版本" />
+    <MESSAGE value="上传神化mod待修改内容" />
     <option name="LAST_COMMIT_MESSAGE" value="删除部分mod,更新mod版本" />
   </component>
 </project>
