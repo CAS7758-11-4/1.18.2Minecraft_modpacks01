@@ -1,66 +1,67 @@
 {
-	"weight": 70,
+	"weight": 40,
 	"mainhands": [{
 			"weight": 3,
 			"stack": {
-				"item": "minecraft:diamond_sword"
+				"item": "minecraft:netherite_sword"
 			}
 		},
 		{
 			"weight": 3,
 			"stack": {
-				"item": "minecraft:diamond_axe"
+				"item": "minecraft:netherite_axe"
 			}
 		},
 		{
 			"weight": 2,
 			"stack": {
-				"item": "minecraft:diamond_pickaxe"
+				"item": "minecraft:netherite_pickaxe"
 			}
 		},
 		{
 			"weight": 2,
 			"stack": {
-				"item": "minecraft:diamond_shovel"
+				"item": "minecraft:netherite_shovel"
 			}
 		}
 	],
 	"offhands": [{
-		"weight": 1,
+		"weight": 9,
 		"stack": {
-			"item": "minecraft:shield"
+			"item": "minecraft:totem_of_undying"
 		}
-	},{
+	},
+    {
 		"weight": 1,
 		"stack": {
-			"item": "minecraft:air"
+			"item": "enigmaticlegacy:soul_crystal"
 		}
 	}],
 	"boots": [{
 		"weight": 1,
 		"stack": {
-			"item": "minecraft:diamond_boots"
+			"item": "byg:netherite_boots"
 		}
 	}],
 	"leggings": [{
 		"weight": 1,
 		"stack": {
-			"item": "minecraft:diamond_leggings"
+			"item": "byg:netherite_leggings"
 		}
 	}],
 	"chestplates": [{
 		"weight": 1,
 		"stack": {
-			"item": "minecraft:diamond_chestplate"
+			"item": "byg:netherite_chestplate"
 		}
 	}],
 	"helmets": [{
 		"weight": 1,
 		"stack": {
-			"item": "minecraft:diamond_helmet"
+			"item": "byg:netherite_helmet"
 		}
 	}],
 	"tags": [
-		"the_nether_diamond"
+		"the_end_ametrine"
 	]
 }

@@ -1,9 +1,33 @@
 {
 	"weight": 100,
 	"mainhands": [{
-			"weight": 1,
+			"weight": 5,
 			"stack": {
 				"item": "minecraft:bow"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:wooden_axe"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:wooden_pickaxe"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "minecraft:wooden_shovel"
 			}
 		}
 	],
@@ -33,6 +57,6 @@
 		}
 	}],
 	"tags": [
-		"overworld_bow"
+		"overworld_bow_leather"
 	]
 }

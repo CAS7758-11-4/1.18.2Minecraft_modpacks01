@@ -5,12 +5,41 @@
 			"stack": {
 				"item": "minecraft:bow"
 			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:diamond_sword"
+			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:diamond_axe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:diamond_pickaxe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:diamond_shovel"
+			}
 		}
 	],
 	"offhands": [{
 		"weight": 1,
 		"stack": {
 			"item": "minecraft:shield"
+		}
+	},{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:air"
 		}
 	}],
 	"boots": [{
@@ -38,6 +67,6 @@
 		}
 	}],
 	"tags": [
-		"the_nether_bow"
+		"the_nether_bow_diamond"
 	]
 }

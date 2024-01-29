@@ -26,7 +26,17 @@
 			}
 		}
 	],
-	"offhands": [],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:shield"
+		}
+	},{
+		"weight": 7,
+		"stack": {
+			"item": "minecraft:air"
+		}
+	}],
 	"boots": [{
 		"weight": 1,
 		"stack": {
@@ -46,7 +56,7 @@
 		}
 	}],
 	"helmets": [{
-		"weight": 3,
+		"weight": 19,
 		"stack": {
 			"item": "minecraft:chainmail_helmet"
 		}
@@ -58,6 +68,6 @@
 		}
 	}],
 	"tags": [
-		"overworld"
+		"overworld_chain"
 	]
 }

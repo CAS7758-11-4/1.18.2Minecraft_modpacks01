@@ -30,6 +30,11 @@
 		"stack": {
 			"item": "minecraft:shield"
 		}
+	},{
+		"weight": 3,
+		"stack": {
+			"item": "minecraft:air"
+		}
 	}],
 	"boots": [{
 		"weight": 1,
@@ -56,6 +61,6 @@
 		}
 	}],
 	"tags": [
-		"the_nether"
+		"the_nether_gold"
 	]
 }

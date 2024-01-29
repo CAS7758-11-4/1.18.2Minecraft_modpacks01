@@ -1,13 +1,13 @@
 {
 	"entity": "minecraft:vindicator",
-	"weight": 25,
+	"weight": 50,
 	"quality": 4,
 	"size": {
 		"width": 1,
 		"height": 2
 	},
 	"valid_gear_sets": [
-		"#overworld"
+		"#overworld_iron"
 	],
 	"dimensions": [
 		"minecraft:overworld"
@@ -17,7 +17,7 @@
 	"stats": {
 		"uncommon": {
 			"enchant_chance": 0.5,
-			"enchantment_levels": [12, 8, 20, 14],
+			"enchantment_levels": [16, 14, 24, 18],
 			"effects": [{
 				"effect": "minecraft:fire_resistance",
 				"chance": 1.0
@@ -27,7 +27,7 @@
 					"operation": "ADDITION",
 					"value": {
 						"min": 20,
-						"steps": 20,
+						"steps": 5,
 						"step": 2
 					}
 				},
@@ -44,8 +44,8 @@
 					"attribute": "minecraft:generic.attack_damage",
 					"operation": "MULTIPLY_BASE",
 					"value": {
-						"min": 0.2,
-						"steps": 20,
+						"min": 0.5,
+						"steps": 5,
 						"step": 0.01
 					}
 				},
@@ -57,8 +57,8 @@
 			]
 		},
 		"rare": {
-			"enchant_chance": 0.5,
-			"enchantment_levels": [19, 12, 27, 22],
+			"enchant_chance": 0.55,
+			"enchantment_levels": [20, 18, 28, 22],
 			"effects": [{
 				"effect": "minecraft:fire_resistance",
 				"chance": 1.0
@@ -67,8 +67,8 @@
 					"attribute": "minecraft:generic.max_health",
 					"operation": "ADDITION",
 					"value": {
-						"min": 40,
-						"steps": 30,
+						"min": 30,
+						"steps": 10,
 						"step": 2
 					}
 				},
@@ -85,8 +85,8 @@
 					"attribute": "minecraft:generic.attack_damage",
 					"operation": "MULTIPLY_BASE",
 					"value": {
-						"min": 0.25,
-						"steps": 30,
+						"min": 0.1,
+						"steps": 5,
 						"step": 0.01
 					}
 				},

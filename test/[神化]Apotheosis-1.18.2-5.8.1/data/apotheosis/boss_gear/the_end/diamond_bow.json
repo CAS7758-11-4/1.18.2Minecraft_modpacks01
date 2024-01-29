@@ -1,9 +1,33 @@
 {
-	"weight": 70,
+	"weight": 7,
 	"mainhands": [{
 			"weight": 3,
 			"stack": {
 				"item": "minecraft:bow"
+			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:diamond_sword"
+			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:diamond_axe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:diamond_pickaxe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:diamond_shovel"
 			}
 		}
 	],
@@ -38,6 +62,6 @@
 		}
 	}],
 	"tags": [
-		"the_end_bow"
+		"the_end_bow_diamond"
 	]
 }

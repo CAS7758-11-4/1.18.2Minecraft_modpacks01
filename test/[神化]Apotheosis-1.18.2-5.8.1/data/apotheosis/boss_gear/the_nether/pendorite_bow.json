@@ -1,33 +1,9 @@
 {
-	"weight": 3,
+	"weight": 70,
 	"mainhands": [{
 			"weight": 3,
 			"stack": {
 				"item": "minecraft:bow"
-			}
-		},
-		{
-			"weight": 3,
-			"stack": {
-				"item": "minecraft:netherite_sword"
-			}
-		},
-		{
-			"weight": 3,
-			"stack": {
-				"item": "minecraft:netherite_axe"
-			}
-		},
-		{
-			"weight": 2,
-			"stack": {
-				"item": "minecraft:netherite_pickaxe"
-			}
-		},
-		{
-			"weight": 2,
-			"stack": {
-				"item": "minecraft:netherite_shovel"
 			}
 		}
 	],
@@ -62,6 +38,6 @@
 		}
 	}],
 	"tags": [
-		"the_end_bow_netherite"
+		"the_nether_bow_pendorite"
 	]
 }

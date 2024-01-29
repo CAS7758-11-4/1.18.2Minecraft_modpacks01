@@ -2,13 +2,23 @@
 	"weight": 90,
 	"quality": 2.5,
 	"mainhands": [{
-			"weight": 3,
+			"weight": 5,
 			"stack": {
 				"item": "minecraft:bow"
 			}
 		}
 	],
-	"offhands": [],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:shield"
+		}
+	},{
+		"weight": 7,
+		"stack": {
+			"item": "minecraft:air"
+		}
+	}],
 	"boots": [{
 		"weight": 1,
 		"stack": {
@@ -28,7 +38,7 @@
 		}
 	}],
 	"helmets": [{
-		"weight": 3,
+		"weight": 19,
 		"stack": {
 			"item": "minecraft:chainmail_helmet"
 		}
@@ -40,6 +50,6 @@
 		}
 	}],
 	"tags": [
-		"overworld_bow"
+		"overworld_bow_chain"
 	]
 }

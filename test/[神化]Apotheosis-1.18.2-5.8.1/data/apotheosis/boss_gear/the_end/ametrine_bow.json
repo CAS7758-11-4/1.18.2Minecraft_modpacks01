@@ -1,6 +1,5 @@
 {
-	"weight": 80,
-	"quality": 5,
+	"weight": 40,
 	"mainhands": [{
 			"weight": 3,
 			"stack": {
@@ -10,64 +9,65 @@
 		{
 			"weight": 3,
 			"stack": {
-				"item": "minecraft:iron_sword"
+				"item": "minecraft:netherite_sword"
 			}
 		},
 		{
 			"weight": 3,
 			"stack": {
-				"item": "minecraft:iron_axe"
+				"item": "minecraft:netherite_axe"
 			}
 		},
 		{
 			"weight": 2,
 			"stack": {
-				"item": "minecraft:iron_pickaxe"
+				"item": "minecraft:netherite_pickaxe"
 			}
 		},
 		{
 			"weight": 2,
 			"stack": {
-				"item": "minecraft:iron_shovel"
+				"item": "minecraft:netherite_shovel"
 			}
 		}
 	],
 	"offhands": [{
-		"weight": 49,
+		"weight": 9,
 		"stack": {
-			"item": "minecraft:shield"
+			"item": "minecraft:totem_of_undying"
 		}
-	},{
+	},
+    {
 		"weight": 1,
 		"stack": {
-			"item": "enigmaticlegacy:ichor_bottle"
+			"item": "enigmaticlegacy:soul_crystal"
 		}
 	}],
 	"boots": [{
 		"weight": 1,
 		"stack": {
-			"item": "minecraft:iron_boots"
+			"item": "byg:ametrine_boots"
 		}
 	}],
 	"leggings": [{
 		"weight": 1,
 		"stack": {
-			"item": "minecraft:iron_leggings"
+			"item": "byg:ametrine_leggings"
 		}
 	}],
 	"chestplates": [{
 		"weight": 1,
 		"stack": {
-			"item": "minecraft:iron_chestplate"
+			"item": "byg:ametrine_chestplate"
 		}
 	}],
 	"helmets": [{
 		"weight": 1,
 		"stack": {
-			"item": "minecraft:iron_helmet"
+			"item": "byg:ametrine_helmet"
 		}
 	}],
 	"tags": [
-		"overworld_bow_iron"
+		"the_end_bow_ametrine"
 	]
 }

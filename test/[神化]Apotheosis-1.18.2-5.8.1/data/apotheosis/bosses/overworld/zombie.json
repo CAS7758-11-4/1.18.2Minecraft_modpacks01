@@ -1,13 +1,12 @@
 {
 	"entity": "minecraft:zombie",
-	"weight": 150,
-	"quality": 0,
+	"weight": 400,
 	"size": {
 		"width": 1,
 		"height": 2
 	},
 	"valid_gear_sets": [
-		"#overworld"
+		"#overworld_chain"
 	],
 	"dimensions": [
 		"minecraft:overworld"
@@ -16,7 +15,7 @@
 	"max_rarity": "uncommon",
 	"stats": {
 		"common": {
-			"enchant_chance": 0.15,
+			"enchant_chance": 0.2,
 			"enchantment_levels": [8, 6, 16, 10],
 			"effects": [{
 				"effect": "minecraft:fire_resistance",
@@ -26,8 +25,8 @@
 					"attribute": "minecraft:generic.max_health",
 					"operation": "ADDITION",
 					"value": {
-						"min": 2,
-						"steps": 9,
+						"min": 10,
+						"steps": 5,
 						"step": 2
 					}
 				},
@@ -57,7 +56,7 @@
 			]
 		},
 		"uncommon": {
-			"enchant_chance": 0.25,
+			"enchant_chance": 0.3,
 			"enchantment_levels": [12, 8, 20, 14],
 			"effects": [{
 				"effect": "minecraft:fire_resistance",

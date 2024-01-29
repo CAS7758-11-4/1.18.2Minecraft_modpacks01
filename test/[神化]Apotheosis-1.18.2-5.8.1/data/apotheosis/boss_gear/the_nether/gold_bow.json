@@ -3,7 +3,7 @@
 	"mainhands": [{
 			"weight": 3,
 			"stack": {
-				"item": "minecraft:bow"
+				"item": "minecraft:crossbow"
 			}
 		}
 	],
@@ -11,6 +11,12 @@
 		"weight": 1,
 		"stack": {
 			"item": "minecraft:shield"
+		}
+	},
+	{
+		"weight": 3,
+		"stack": {
+			"item": "minecraft:air"
 		}
 	}],
 	"boots": [{
@@ -38,6 +44,6 @@
 		}
 	}],
 	"tags": [
-		"the_nether_bow"
+		"the_nether_bow_gold"
 	]
 }

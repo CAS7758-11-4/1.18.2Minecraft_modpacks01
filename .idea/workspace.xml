@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe7d0758-2bb2-4832-b6ea-12324fac08ab" name="更改" comment="删除部分mod,更新mod版本" />
+    <list default="true" id="fe7d0758-2bb2-4832-b6ea-12324fac08ab" name="更改" comment="删除部分mod,更新mod版本">
+      <change beforePath="$PROJECT_DIR$/test/[神化]Apotheosis-1.18.2-5.8.1/data/apotheosis/bosses/下界神化boss数值曲线.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test/[神化]Apotheosis-1.18.2-5.8.1/data/apotheosis/bosses/下界神化boss数值曲线.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/[神化]Apotheosis-1.18.2-5.8.1/data/apotheosis/bosses/主世界神化boss数值曲线.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test/[神化]Apotheosis-1.18.2-5.8.1/data/apotheosis/bosses/主世界神化boss数值曲线.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/mod文档/待完成内容.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/mod文档/待完成内容.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

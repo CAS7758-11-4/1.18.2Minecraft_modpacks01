@@ -1,5 +1,5 @@
 {
-	"weight": 100,
+	"weight": 1000,
 	"mainhands": [{
 			"weight": 3,
 			"stack": {
@@ -43,6 +43,12 @@
 		"stack": {
 			"item": "minecraft:leather_chestplate"
 		}
+	},
+	{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:air"
+		}
 	}],
 	"helmets": [{
 		"weight": 1,
@@ -51,6 +57,6 @@
 		}
 	}],
 	"tags": [
-		"overworld_leather"
+		"overworld"
 	]
 }
