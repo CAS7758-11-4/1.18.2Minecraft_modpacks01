@@ -1,0 +1,295 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.35714287f,variant: 0,modifier: {Amount: 0.10000000149011612d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.39285713f,variant: 0,modifier: {Amount: 0.10999999940395355d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.42857143f,variant: 0,modifier: {Amount: 0.12000000476837158d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.4642857f,variant: 0,modifier: {Amount: 0.12999999523162842d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.5f,variant: 0,modifier: {Amount: 0.14000000059604645d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.5357143f,variant: 0,modifier: {Amount: 0.15000000596046448d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.57142854f,variant: 0,modifier: {Amount: 0.1599999964237213d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.60714287f,variant: 0,modifier: {Amount: 0.17000000178813934d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.6428572f,variant: 0,modifier: {Amount: 0.18000000715255737d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.6785714f,variant: 0,modifier: {Amount: 0.1899999976158142d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.7142857f,variant: 0,modifier: {Amount: 0.19999998807907104d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.75f,variant: 0,modifier: {Amount: 0.21000000834465027d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.78571427f,variant: 0,modifier: {Amount: 0.2199999988079071d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.82142854f,variant: 0,modifier: {Amount: 0.22999998927116394d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.85714287f,variant: 0,modifier: {Amount: 0.24000000953674316d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.89285713f,variant: 0,modifier: {Amount: 0.25d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.9285714f,variant: 0,modifier: {Amount: 0.25999999046325684d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.96428573f,variant: 0,modifier: {Amount: 0.27000001072883606d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:1.0f,variant: 0,modifier: {Amount: 0.2800000011920929d,attribute: \"apotheosis:arrow_velocity\",Name: \"GemBonus_apotheosis:arrow_velocity\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

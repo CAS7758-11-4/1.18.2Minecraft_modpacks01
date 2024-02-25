@@ -1,0 +1,190 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.3529412f,variant: 2,modifier: {Amount: 3.0d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.4117647f,variant: 2,modifier: {Amount: 3.5d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.47058824f,variant: 2,modifier: {Amount: 4.0d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.5294118f,variant: 2,modifier: {Amount: 4.5d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.5882353f,variant: 2,modifier: {Amount: 5.0d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.64705884f,variant: 2,modifier: {Amount: 5.5d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.7058824f,variant: 2,modifier: {Amount: 6.0d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.7647059f,variant: 2,modifier: {Amount: 6.5d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.8235294f,variant: 2,modifier: {Amount: 7.0d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.88235295f,variant: 2,modifier: {Amount: 7.5d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.9411765f,variant: 2,modifier: {Amount: 8.0d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:1.0f,variant: 2,modifier: {Amount: 8.5d,attribute: \"minecraft:generic.luck\",Name: \"GemBonus_apotheosis:luck\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

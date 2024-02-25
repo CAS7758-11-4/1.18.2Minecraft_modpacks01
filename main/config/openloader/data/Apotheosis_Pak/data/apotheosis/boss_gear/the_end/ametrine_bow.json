@@ -1,0 +1,73 @@
+{
+	"weight": 40,
+	"mainhands": [{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:bow"
+			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:netherite_sword"
+			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:netherite_axe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:netherite_pickaxe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:netherite_shovel"
+			}
+		}
+	],
+	"offhands": [{
+		"weight": 9,
+		"stack": {
+			"item": "minecraft:totem_of_undying"
+		}
+	},
+    {
+		"weight": 1,
+		"stack": {
+			"item": "enigmaticlegacy:soul_crystal"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "byg:ametrine_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "byg:ametrine_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "byg:ametrine_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 1,
+		"stack": {
+			"item": "byg:ametrine_helmet"
+		}
+	}],
+	"tags": [
+		"the_end_bow_ametrine"
+	]
+}

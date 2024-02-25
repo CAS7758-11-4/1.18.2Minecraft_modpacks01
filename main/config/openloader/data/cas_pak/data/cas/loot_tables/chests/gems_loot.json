@@ -1,0 +1,114 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/00parity/parity_gem0"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/00parity/parity_gem1"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/01arcane/arcane_gem0"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/01arcane/arcane_gem1"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/02splendor/splendor_gem0"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/03breach/breach_gem0"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/03breach/breach_gem1"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/04guardian/guardian_gem0"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/04guardian/guardian_gem1"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/04guardian/guardian_gem2"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/05chaotic/chaotic_gem0"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/05chaotic/chaotic_gem1"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/05chaotic/chaotic_gem2"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/05chaotic/chaotic_gem3"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/05chaotic/chaotic_gem4"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/06necrotic/necrotic_gem0"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/06necrotic/necrotic_gem1"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/06necrotic/necrotic_gem2"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/07mirror/mirror_gem0"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/08geometric/geometric_gem0"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/08geometric/geometric_gem1"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/08geometric/geometric_gem2"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/08geometric/geometric_gem3"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/09valence/valence_gem0"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/10endersurge/endersurge_gem0"
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "name": "cas:chests/gem/10endersurge/endersurge_gem1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.2857143f,variant: 4,modifier: {Amount: 4.0d,attribute: \"minecraft:generic.max_health\",Name: \"GemBonus_apotheosis:max_health\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.42857143f,variant: 4,modifier: {Amount: 6.0d,attribute: \"minecraft:generic.max_health\",Name: \"GemBonus_apotheosis:max_health\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.5714286f,variant: 4,modifier: {Amount: 8.0d,attribute: \"minecraft:generic.max_health\",Name: \"GemBonus_apotheosis:max_health\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.71428573f,variant: 4,modifier: {Amount: 10.0d,attribute: \"minecraft:generic.max_health\",Name: \"GemBonus_apotheosis:max_health\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.85714287f,variant: 4,modifier: {Amount: 12.0d,attribute: \"minecraft:generic.max_health\",Name: \"GemBonus_apotheosis:max_health\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:1.0f,variant: 4,modifier: {Amount: 14.0d,attribute: \"minecraft:generic.max_health\",Name: \"GemBonus_apotheosis:max_health\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

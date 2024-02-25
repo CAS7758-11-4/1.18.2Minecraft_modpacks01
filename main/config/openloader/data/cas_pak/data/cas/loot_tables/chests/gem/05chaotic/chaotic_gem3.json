@@ -1,0 +1,325 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.20000002f,variant: 5,modifier: {Amount: 0.05000000074505806d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.24000002f,variant: 5,modifier: {Amount: 0.06000000238418579d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.28000003f,variant: 5,modifier: {Amount: 0.07000000029802322d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.32000002f,variant: 5,modifier: {Amount: 0.07999999821186066d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.36000004f,variant: 5,modifier: {Amount: 0.09000000357627869d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.4f,variant: 5,modifier: {Amount: 0.09999999403953552d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.44000003f,variant: 5,modifier: {Amount: 0.10999999940395355d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.48000005f,variant: 5,modifier: {Amount: 0.12000000476837158d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.52000004f,variant: 5,modifier: {Amount: 0.12999999523162842d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 2,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.56000006f,variant: 5,modifier: {Amount: 0.14000000059604645d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.6f,variant: 5,modifier: {Amount: 0.14999999105930328d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.64000005f,variant: 5,modifier: {Amount: 0.1599999964237213d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.68000007f,variant: 5,modifier: {Amount: 0.17000000178813934d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.72f,variant: 5,modifier: {Amount: 0.17999999225139618d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.76000005f,variant: 5,modifier: {Amount: 0.1899999976158142d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.8f,variant: 5,modifier: {Amount: 0.19999998807907104d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.84000003f,variant: 5,modifier: {Amount: 0.20999999344348907d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.88000005f,variant: 5,modifier: {Amount: 0.2199999988079071d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.92f,variant: 5,modifier: {Amount: 0.22999998927116394d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:0.96000004f,variant: 5,modifier: {Amount: 0.23999999463558197d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 3,
+                    "name": "apotheosis:gem",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{purity:1.0f,variant: 5,modifier: {Amount: 0.2499999850988388d,attribute: \"apotheosis:crit_chance\",Name: \"GemBonus_apotheosis:crit_chance\",Operation: 1,UUID: [I;0,0,0,0]}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+	"weight": 120,
+	"mainhands": [{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:crossbow"
+			}
+		}
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:shield"
+		}
+	},
+	{
+		"weight": 3,
+		"stack": {
+			"item": "minecraft:air"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:golden_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:golden_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:golden_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:golden_helmet"
+		}
+	}],
+	"tags": [
+		"the_nether_bow_gold"
+	]
+}
